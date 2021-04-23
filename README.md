@@ -41,9 +41,9 @@ I'm a pursuing Bachelors's in Computer Engineering ğŸ“ at CHARUSAT UniversityğŸ
 
 ### Stats
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hetvi07&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub stats"  width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetvi07&layout=compact&theme=radical" alt="Most used Languages" width="42%" />
+<p align="center">
+   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetvi07&layout=compact&theme=radical" alt="Most used Languages" width="50%" />
 </p>
 
 
@@ -58,7 +58,7 @@ I'm a pursuing Bachelors's in Computer Engineering ğŸ“ at CHARUSAT UniversityğŸ
 <code><img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
 <code><img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
