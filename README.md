@@ -71,7 +71,7 @@ I'm a pursuing Bachelors's in Computer Engineering ğŸ“ at CHARUSAT UniversityğŸ
   <img align="left" alt="Hetvi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a  href="mailto:hetvihadvani@gmail.com" target="blank">
-  <img align="left" alt="Hetvi's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />
+  <img align="left" alt="Hetvi's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email2.svg" />
  </a>
 <a href="https://github.com/Hetvi07">
   <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
