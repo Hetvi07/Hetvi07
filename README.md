@@ -61,7 +61,7 @@ I'm a pursuing Bachelors's in Computer Engineering ðŸŽ“ at CHARUSAT UniversityðŸ
 ![Django](https://img.shields.io/badge/Django%20-%2300599C.svg?&style=for-the-badge&logo=django&ogoColor=white)
 ![Vim](https://img.shields.io/badge/-VIM-2B9348?style=for-the-badge&logo=vim)
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Pelican](https://img.shields.io/badge/-pelican-00a8e8?style=for-the-badge&logo=pelican&ogoColor=white)
+![Pelican](https://img.shields.io/badge/-pelican-00a8e8?style=for-the-badge&logo=pelican&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 ### Reach me
