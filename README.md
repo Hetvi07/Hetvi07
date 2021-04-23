@@ -1,6 +1,6 @@
 
 
-## Hello World!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! I'm Hetvi Hadvani  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
 
@@ -29,11 +29,11 @@ I'm a pursuing Bachelors's in Computer Engineering 🎓 at CHARUSAT University�
 ### More about me...
 -😈 Always strive until its done.
 
--Quantitative aptitude is all time fav🤩.
+-⚡Quantitative aptitude is all time fav🤩.
 
 -🎸I play guitar in my free time.
 
-- Love Math, Music and Mythology (weird enough😂).
+-🤠Love Math, Music and Mythology (weird enough😂).
 
 
 
