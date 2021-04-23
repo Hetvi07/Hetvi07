@@ -87,6 +87,5 @@ I'm a pursuing Bachelors's in Computer Engineering ðŸŽ“ at CHARUSAT UniversityðŸ
   <img align="left" alt="Hetvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{Hetvi07}/count.svg)
+
 
