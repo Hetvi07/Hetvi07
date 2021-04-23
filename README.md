@@ -14,18 +14,20 @@ I'm a pursuing Bachelors's in Computer Engineering 🎓 at CHARUSAT University�
 
 <p align="left">
   <img height=250 src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="GIF" />
-  <img height=250 src="https://tenor.com/1EEI.gif" alt="GIF" />
+  <img height=250 src="https://media.giphy.com/media/DyeaRFh450rTqd7yQB/giphy.gif" alt="GIF" />
+  <img height=250 src="https://media.giphy.com/media/MYBqUqn7yEsBtAMgDI/giphy.gif" alt="GIF" />
+ 
 </p>
 
 
-### What I'm upto...
-- 🌱 I’m currently focusing on **FLutter and DSA**
+### About me...
+-🌱 I’m currently into web-development🕸.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AyushiPanth?tab=repositories)
+-🤖 I'm exploring AI and ML.
 
-- Visit my [Portfolio](https://portfolios.talentsprint.com/~ayushi_panth) to know more
+-👩‍💻I'm learning Data Structure and Algorithms and will continue till my last breath😂.
 
-- 💬 Have a Question? [Ask me](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ayushipanth123a@gmail.com)
+
 
 
 
