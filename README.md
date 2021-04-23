@@ -12,11 +12,10 @@ I'm a pursuing Bachelors's in Computer Engineering ðŸŽ“ at CHARUSAT UniversityðŸ
 <br />
 
 
-<p align = 'left'>
-  <img height=250 src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="GIF" /> </p>
-<p align = 'center'>  <img height=250 src="https://media.giphy.com/media/DyeaRFh450rTqd7yQB/giphy.gif" alt="GIF" /> </p>
-<p align = 'right'>  <img height=250 src="https://media.giphy.com/media/MYBqUqn7yEsBtAMgDI/giphy.gif" alt="GIF" />
- 
+<p align = 'center'>
+ <img height=250 src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="GIF" /> 
+ <img height=250 src="https://media.giphy.com/media/DyeaRFh450rTqd7yQB/giphy.gif" alt="GIF" /> 
+ <img height=250 src="https://media.giphy.com/media/MYBqUqn7yEsBtAMgDI/giphy.gif" alt="GIF" />
 </p>
 
 
