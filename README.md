@@ -71,11 +71,18 @@ I'm a pursuing Bachelors's in Computer Engineering ðŸŽ“ at CHARUSAT UniversityðŸ
   <img align="left" alt="Hetvi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a  href="mailto:hetvihadvani@gmail.com" target="blank">
-  <img align="left" alt="Hetvi's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email2.svg" />
- </a>
-<a href="https://github.com/Hetvi07">
-  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Hetvi's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://github.com/Hetvi07">
+  <img align="left" alt="Hetvi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.codechef.com/users/hetvi07">
+  <img align="left" alt="Hetvi's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://leetcode.com/WTEF_hetvi/">
+  <img align="left" alt="Hetvi's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
 <a href="https://www.instagram.com/hadvanihetvi/">
   <img align="left" alt="Hetvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
