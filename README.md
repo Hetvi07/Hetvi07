@@ -1,19 +1,20 @@
 
 
-## Hello World! ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
 
 
 
 ### Glad to see you here! 🤩 &nbsp;
-I'm a pursuing Bachelors's in Computer Engineering 🎓 at CHARUSAT University🏛. I'm a lifelong learner who's always willing to work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I'm a pursuing Bachelors's in Computer Engineering 🎓 at CHARUSAT University🏛. I'm a lifelong learner who's always willing to work across domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 <br />
 
 
-<p align="center">
-  <img height=250 src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="GIF" />
+<p align="left">
+  <img height=250 src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="GIF" />
+  <img height=250 src="https://tenor.com/1EEI.gif" alt="GIF" />
 </p>
 
 
