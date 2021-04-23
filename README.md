@@ -37,9 +37,9 @@ I'm a pursuing Bachelors's in Computer Engineering ğŸ“ at CHARUSAT UniversityğŸ
 
 
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Hetvi07&show_icons=true&theme=radical" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetvi07&theme=radical)" /> 
-
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Hetvi07&show_icons=true&theme=radical" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetvi07&layout=compact&theme=radical" alt="Most used Languages" width="42%" />
+</p>
 
 
 ### Skills
