@@ -1,6 +1,6 @@
 
 
-## Hello World! <img src="https://raw.githubusercontent.com/Hetvi07/Hetvi07/master/gifs/Hi.gif" width="30px"> ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
 
