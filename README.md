@@ -1,4 +1,4 @@
-<p  align="center"><img src = "https://github.com/Hetvi07/Hetvi07/blob/master/gifs/intro.gif"></p>
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there 
 
 ## Hello World! <img src="https://raw.githubusercontent.com/Hetvi07/Hetvi07/master/gifs/Hi.gif" width="30px"></h2>
 <br />
