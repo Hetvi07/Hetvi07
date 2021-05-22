@@ -35,9 +35,11 @@ I'm a pursuing Bachelors's in Computer Engineering 🎓 at CHARUSAT University�
 
 -🤠Love Math, Music and Mythology (weird enough😂).
 
-Have fun with my projects🤩:
+
+### Have fun with my projects🤩:
 
 -Play some drums [here](https://hetvi07.github.io/DrumKit/) 🥁.
+
 -Share and read blogs [here](https://keep--blogging.herokuapp.com/) 📔.
 
 
