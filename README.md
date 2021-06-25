@@ -7,7 +7,7 @@
 
 
 ### Glad to see you here! 🤩 &nbsp;
-I'm a pursuing Bachelors's in Computer Engineering 🎓 at CHARUSAT University🏛. I'm a lifelong learner who's always willing to work across domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I'm a pursuing Bachelors's in Computer Engineering 🎓 at CHARUSAT University🏛. I'm an enthusiastic, inquisitive programmer who's always willing to work across domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 <br />
 
