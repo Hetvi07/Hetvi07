@@ -26,10 +26,14 @@ I'm a pursuing Bachelors's in Computer Engineering 🎓 at CHARUSAT University�
 
 -👩‍💻I'm learning Data Structure and Algorithms and will continue till my last breath😂.
 
+-✍Am Content Writer at Club Gamma | Charusat University.
+
 ### More about me...
--😈 Always strive until its done.
+-😈My motto -  Strive until its done.
 
 -⚡Quantitative aptitude is all time fav🤩.
+
+-🧠Love solving puzzels and logical reasoning questions 🧩🧩.
 
 -🎸I play guitar in my free time.
 
